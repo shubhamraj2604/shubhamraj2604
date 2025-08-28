@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shubhamraj2604/shubhamraj2604/main/Shubham.jpg" 
+       alt="Shubham Raj" 
+       width="180" 
+       height="180" 
+       style="border-radius: 50%; border: 2px solid #4F46E5; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+</p>
+
+
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   👋 Hi, I'm <span style="color:#4F46E5;">Shubham Raj</span>
 </h1>
