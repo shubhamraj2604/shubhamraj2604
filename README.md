@@ -12,7 +12,7 @@
 </h1>
 
 <p align="center">
-  🚀 <b>2nd-year Computer Science and Engineering Student at BIT Mesra</b><br/>
+  🚀 <b>3rd-year Computer Science and Engineering Student at BIT Mesra</b><br/>
   💻 Passionate about <b>Competitive Programming</b>, <b>Web Development</b>, and <b>Machine Learning</b><br/>
   📊 Exploring <b>Data Science</b> and <b>AI</b>
 </p>
