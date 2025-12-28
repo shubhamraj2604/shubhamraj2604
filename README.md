@@ -30,14 +30,19 @@
 
 ## 📌 Featured Projects  
 
+### [🤖 AI Learning Management System](https://github.com/shubhamraj2604/AI_Learning_Management)  
+A **one-stop learning platform** that generates personalized study materials based on user input. It creates **notes and quizzes** tailored to individual preferences and topics, making it easier and faster to learn anything efficiently.
+
+
 ### [📊 Data Science Jobs Analysis](https://github.com/shubhamraj2604/Data_Science_Jobs_Analysis)  
 Python-based analysis of the U.S. data analyst job market, exploring in-demand and high-paying skills using clean data processing and visualizations.   
 
 ### [📝 To-Do List App](https://todolist-nc07.onrender.com/)  
 A responsive **To-Do List** app to manage tasks efficiently. Features add, edit, and delete functionalities with a clean **React** frontend and **Node.js** backend.  
 
-### [🛍 Product Store (In Progress)](https://github.com/shubhamraj2604/ProductStore)  
-A work-in-progress **e-commerce platform** with product management and shopping cart features. Will include real-time inventory and order tracking.  
+### [🛍 Product Store](https://github.com/shubhamraj2604/ProductStore)  
+A **modern full-stack e-commerce platform** with a beautiful, responsive UI, dark/light mode, and seamless shopping cart experience. Users can browse products, manage their cart, and enjoy a smooth, intuitive online shopping journey. Fully featured with **user authentication, admin product management**.
+ 
 
 ---
 
