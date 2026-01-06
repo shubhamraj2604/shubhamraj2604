@@ -20,12 +20,14 @@
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** C++, Java, Python, JavaScript 
-- **Frontend:** React, Tailwind CSS  
+- **Languages:** C++, Java, Python, JavaScript  
+- **Frontend:** React, Tailwind CSS, Next.js  
 - **Backend:** Node.js, Express.js  
-- **Database:** PostgreSQL, MYSQL
-- **Tools:** Git, GitHub, VS Code,  
-- **Data Analysis and Visualization** Pandas , Matplotlib , Seaborn , Numpy
+- **Database:** PostgreSQL, MySQL, **Drizzle ORM (Type-safe)**  
+- **Cloud & Deployment:** Docker, AWS
+- **Tools & Version Control:** Git, GitHub, VS Code  
+- **Data Analysis & Visualization:** Pandas, Matplotlib, Seaborn, NumPy  
+- **Automation Tools:** Inngest
 ---
 
 ## 📌 Featured Projects  
