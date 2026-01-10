@@ -197,20 +197,7 @@ me = ShubhamRaj()
 
 </div>
 
----
 
-## 📈 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhamraj2604&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=4F46E5"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamraj2604&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F46E5"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=shubhamraj2604&theme=radical&hide_border=true&background=0D1117&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5" alt="GitHub Streak"/>
-</div>
-
----
 
 ## 📊 Contribution Graph
 
