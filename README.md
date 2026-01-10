@@ -259,6 +259,5 @@ me = ShubhamRaj()
 
 **Thanks for visiting! ⭐ Feel free to reach out if you want to collaborate or just say hi! 👋**
 
-![Visitor Count](https://profile-counter.glitch.me/shubhamraj2604/count.svg)
 
 </div>
