@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/shubhamraj2604/shubhamraj2604/main/Shubham.jpg" 
        alt="Shubham Raj" 
-       width="200" 
+       width="300" 
        height="200" 
        style="border-radius: 50%; border: 4px solid #4F46E5; box-shadow: 0 8px 24px rgba(79, 70, 229, 0.3); transition: transform 0.3s ease;" />
 </div>
