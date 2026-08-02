@@ -11,7 +11,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 3rd-year Computer Science and Engineering Student at <b>BIT Mesra</b> | 
+  🚀 4th-year Computer Science and Engineering Student at <b>BIT Mesra</b> | 
   💻 Full-Stack Developer | 
   🎯 Competitive Programmer | 
   🤖 ML Enthusiast
