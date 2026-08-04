@@ -55,7 +55,7 @@
 
 ## 💡 About Me
 
-\`\`\`python
+```python
 class ShubhamRaj:
     def __init__(self):
         self.name = "Shubham Raj"
@@ -87,7 +87,7 @@ class ShubhamRaj:
         print("🚀 Always eager to collaborate on exciting projects!")
 
 me = ShubhamRaj()
-\`\`\`
+```
 
 ---
 
