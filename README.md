@@ -47,10 +47,9 @@
 
 - 🎓 **Selected for Amazon ML Summer School 2026** — top ~3,000 of 134,000+ applicants
 - 🏆 **Adobe India Hackathon — Round 2 Finalist** — top ~4.7% of 85,000+ teams
-- ♞ **LeetCode Knight** — ~600 problems solved, rating ~1793–1800
+- ♞ **LeetCode Knight** — 800+ problems solved
 - 🎯 **Codeforces** — rating ~1200, active contest participation
-- 🧑‍💼 Served as **Treasurer, IETE Student Chapter, BIT Mesra** — organized technical events including a hackathon with 100+ participants
-
+- 
 ---
 
 ## 💡 About Me
