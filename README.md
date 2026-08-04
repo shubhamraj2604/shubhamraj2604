@@ -11,10 +11,10 @@
 </h1>
 
 <h3 align="center">
-  🚀 4th-year Computer Science and Engineering Student at <b>BIT Mesra</b> | 
+  🚀 Final-Year CSE Student at <b>BIT Mesra</b> | 
+  🌾 Research Intern (CS Dept.) | 
   💻 Full-Stack Developer | 
-  🎯 Competitive Programmer | 
-  🤖 ML Enthusiast
+  🎯 Competitive Programmer
 </h3>
 
 <p align="center">
@@ -43,9 +43,19 @@
 
 ---
 
+## 🏅 Latest Achievements
+
+- 🎓 **Selected for Amazon ML Summer School 2026** — top ~3,000 of 134,000+ applicants
+- 🏆 **Adobe India Hackathon — Round 2 Finalist** — top ~4.7% of 85,000+ teams
+- ♞ **LeetCode Knight** — ~600 problems solved, rating ~1793–1800
+- 🎯 **Codeforces** — rating ~1200, active contest participation
+- 🧑‍💼 Served as **Treasurer, IETE Student Chapter, BIT Mesra** — organized technical events including a hackathon with 100+ participants
+
+---
+
 ## 💡 About Me
 
-```python
+\`\`\`python
 class ShubhamRaj:
     def __init__(self):
         self.name = "Shubham Raj"
@@ -112,31 +122,68 @@ x
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+### 🧠 **ML & Computer Vision**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=white)
+
 ### 📊 **Data Science & Analytics**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🔧 **Tools & Automation**
+### 🔧 **Tools & Services**
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Inngest](https://img.shields.io/badge/Inngest-000000?style=for-the-badge&logo=inngest&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🤖 [AI Learning Management System](https://github.com/shubhamraj2604/AI_Learning_Management)
-**A one-stop intelligent learning platform** that generates personalized study materials based on user input. 
+### 🌾 AgriAid — Crop Disease Detection (Research)
+**Research contribution to a full agricultural advisory pipeline** as a CS Department Research Intern at BIT Mesra, focused on the crop disease detection module.
+
+✨ **Key Work:**
+- 🥔 Potato leaf disease classification — EfficientNetB0 transfer learning, accuracy improved from ~70% → ~86%
+- 🌾 Rice disease severity estimation — evolved from HSV masking + SAM-based leaf isolation to a two-stage architecture (YOLOv8-Seg for leaf isolation + EfficientNet/ResNet for severity classification)
+- 🎨 CLAHE preprocessing on LAB colorspace for image enhancement
+- 📐 Custom Disease Spread Index (DSI): brown-spot pixels / total leaf pixels × 100, mapped to four severity tiers
+- 🧪 Also explored Attention U-Net for segmentation
+
+**Tech Stack:** Python, PyTorch, YOLOv8-Seg, SAM, EfficientNet, ResNet, Attention U-Net, OpenCV, CLAHE
+
+---
+
+### 🎓 [Easy Learn — AI-Powered LMS](https://github.com/shubhamraj2604/AI_Learning_Management)
+**A one-stop intelligent learning platform** that generates personalized study materials, notes, and quizzes based on user input — one of two flagship full-stack projects.
 
 ✨ **Key Features:**
-- 🤖 AI-powered content generation
-- 📝 Customized notes creation
-- 🧠 Personalized quizzes
-- 🎯 Topic-based learning modules
-- ⚡ Fast and efficient learning experience
+- 🤖 AI-powered content generation via Gemini AI
+- 📝 Personalized notes and quiz generation by topic
+- 💳 Tiered subscription billing (Free / Student / Gold) via Stripe
+- ⚡ Background job processing and workflows with Inngest
+- 🛡️ Bot protection and rate limiting via Arcjet
+- 🔐 Authentication via Clerk
+- 🧪 Building an AI response-quality measurement system with automated email alerts on repeated AI failures
 
-**Tech Stack:** React, Next.js, Node.js, Express.js, PostgreSQL, Drizzle ORM, AI (LLMs), Tailwind CSS, Clerk Auth, Inngest
+**Tech Stack:** React, Next.js, Node.js, Express.js, PostgreSQL, Drizzle ORM, Gemini AI, Clerk, Inngest, Arcjet, Stripe, Tailwind CSS
+
+---
+
+### 🛍️ [Nextonic — E-Commerce Platform](https://github.com/shubhamraj2604/ProductStore)
+**A modern full-stack e-commerce platform** — the second flagship project, built with production-style engineering practices.
+
+✨ **Key Features:**
+- 🛒 Full shopping cart and checkout flow with Stripe payments
+- 🔐 Role-based access control (admin vs. customer)
+- 🛡️ Hardened HTTP headers via Helmet.js
+- ⚡ Lightweight global state management with Zustand
+- 🌙 Dark/Light mode toggle
+- 📱 Fully responsive UI/UX
+
+**Tech Stack:** React, Node.js, Express.js, PostgreSQL, Zustand, Helmet.js, Stripe, Tailwind CSS
 
 ---
 
@@ -161,28 +208,11 @@ x
 - ➕ Add, edit, and delete tasks
 - 📱 Fully responsive design
 - ⚡ Real-time updates
-- 🎨 Clean and modern UI
 - 🔄 RESTful API integration
 
 **Tech Stack:** React, Node.js, Express.js, Neon-Postgres
 
 **🔗 Live Demo:** [Visit App](https://todolist-nc07.onrender.com/)
-
----
-
-### 🛍️ [Product Store - E-Commerce Platform](https://github.com/shubhamraj2604/ProductStore)
-**A modern full-stack e-commerce platform** with comprehensive features for seamless online shopping.
-
-✨ **Key Features:**
-- 🛒 Shopping cart functionality
-- 🌙 Dark/Light mode toggle
-- 👤 User authentication system
-- 🔐 Admin product management
-- 📱 Fully responsive design
-- 💳 Payment integration ready
-- 🎨 Beautiful, intuitive UI/UX
-
-**Tech Stack:** React, Node.js, Express.js, PostgreSQL, Tailwind CSS
 
 ---
 
@@ -197,8 +227,6 @@ x
 
 </div>
 
-
-
 ## 📊 Contribution Graph
 
 <div align="center">
@@ -207,13 +235,12 @@ x
 
 ---
 
-## 🏆 Coding Profiles & Achievements
+## 🏆 Coding Profiles
 
-### 🧑‍💻 Competitive Programming
 <div align="left">
 
-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shubhamraj2604/) - Solving algorithmic challenges
-- [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shubhamraj1) - Competitive programming contests
+- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shubhamraj2604/) — Knight rank · ~600 problems solved · rating ~1793–1800
+- [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shubhamraj1) — rating ~1200
 
 </div>
 
@@ -221,11 +248,10 @@ x
 
 ## 💼 Currently Working On
 
-- 🚀 Building scalable web applications
-- 🤖 Exploring Machine Learning and AI
-- ☁️ Learning cloud architecture and DevOps
-- 📚 Expanding knowledge in system design
-- 🎯 Participating in competitive programming contests
+- 🌾 Crop disease detection research for AgriAid (CS Dept., BIT Mesra)
+- 🎓 Expanding Easy Learn's AI response-quality measurement system
+- 💼 Actively interviewing for SDE/full-stack roles
+- 🎯 Ongoing competitive programming practice
 
 ---
 
@@ -258,6 +284,5 @@ x
 ### 💻 **"Code is like humor. When you have to explain it, it's bad."**
 
 **Thanks for visiting! ⭐ Feel free to reach out if you want to collaborate or just say hi! 👋**
-
 
 </div>
