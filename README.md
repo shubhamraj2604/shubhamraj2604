@@ -50,35 +50,35 @@ class ShubhamRaj:
     def __init__(self):
         self.name = "Shubham Raj"
         self.education = "B.Tech in Computer Science and Engineering"
-        self.university = "BIT Mesra"
-        self.year = "3rd Year"
+        self.university = "Birla Institute of Technology, Mesra"
+        self.year = "Final Year (Graduating 2027)"
+        self.role = "Research Intern – AgriAid Project"
         self.location = "India 🇮🇳"
         self.status = "Open to collaborations and opportunities"
-        
+
         self.interests = [
             "Competitive Programming",
             "Full-Stack Web Development",
-            "Machine Learning & AI",
+            "Machine Learning & Computer Vision",
             "Data Science & Analytics",
             "Cloud Computing & DevOps"
         ]
-        
+
         self.currently_learning = [
             "Advanced React Patterns",
-            "Machine Learning Algorithms",
             "System Design",
             "Distributed Systems"
         ]
-    
+
     def get_quote(self):
-        return "Turning complex problems into clean, efficient solutions"
-    
+        return "Turning complex problems into clean, efficient solutions."
+
     def say_hello(self):
         print("🚀 Always eager to collaborate on exciting projects!")
 
 me = ShubhamRaj()
 ```
-
+x
 ---
 
 ## 🛠️ Tech Stack & Tools
