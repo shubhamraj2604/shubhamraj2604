@@ -238,7 +238,7 @@ me = ShubhamRaj()
 
 <div align="left">
 
-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shubhamraj2604/) — Knight rank · ~600 problems solved · rating ~1793–1800
+- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shubhamraj2604/) — Knight rank · ~900 problems solved · rating 1890+
 - [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shubhamraj1) — rating ~1200
 
 </div>
