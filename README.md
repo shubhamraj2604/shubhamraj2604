@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shubhamraj2604/shubhamraj2604/main/Shubham.jpg" 
+  <img src="https://raw.githubusercontent.com/shubhamraj2604/shubhamraj2604/main/profile.jpg" 
        alt="Shubham Raj" 
        width="300" 
        height="200" 
